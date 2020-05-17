@@ -64,3 +64,5 @@ form, input, textarea, select, option, optgroup, button, label, fieldset and leg
 ```
 script and noscript
 ```
+There are many online "cheatsheets" for HTML. These files list all of the HTML5 tags, and also include information about tags that are common, but no longer supported by HTML. There are many cheatsheets available, but here is a link to one that is recommended by the W3 consortium webpage. : [Link](https://www.wpkube.com/html5-cheat-sheet/)
+
