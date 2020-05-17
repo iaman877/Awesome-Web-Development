@@ -35,22 +35,32 @@ Some HTML tags are not closed, for example br and hr.
 DOCTYPE, title, link, meta and style
 
 ## HTML Text Tags
+```
 <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <strong>, <em>, <abbr>, <acronym>, <address>, <bdo>, <blockquote>, <cite>, <q>, <code>, <ins>, <del>, <dfn>, <kbd>, <pre>, <samp>, <var> and <br>
-
+```
 ## HTML Link Tags
+```
 <a> and <base>
-
+```
 ## HTML Image and Object Tags
+```
 <img>, <area>, <map>, <param> and <object>
-
+```
 ## HTML List Tags
+```
 <ul>, <ol>, <li>, <dl>, <dt> and <dd>
+```
 
 ## HTML Table Tags
+```
 table, tr, td, th, tbody, thead, tfoot, col, colgroup and caption
+```
 
 ## HTML Form Tags
+```
 form, input, textarea, select, option, optgroup, button, label, fieldset and legend
-
+```
 ## HTML Scripting Tags
+```
 script and noscript
+```
