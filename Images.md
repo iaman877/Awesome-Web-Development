@@ -7,3 +7,4 @@ Tips
 
 * _*If the image is information, be complete, but concise*_: In most cases you should be able to use a short phrase or sentence as alt text.
 * _*Prioritize information in text alternative*_: Aim to put the most important information at the beginning.
+* _*Avoid superfluous information*_: There is rarely a need to use the words “image”, “icon”, or “picture” in the alt text.
