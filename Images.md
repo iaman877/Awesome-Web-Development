@@ -8,3 +8,4 @@ Tips
 * _*If the image is information, be complete, but concise*_: In most cases you should be able to use a short phrase or sentence as alt text.
 * _*Prioritize information in text alternative*_: Aim to put the most important information at the beginning.
 * _*Avoid superfluous information*_: There is rarely a need to use the words “image”, “icon”, or “picture” in the alt text.
+* _*Handle complex images as a special case*_: Complex images such as graphs, charts, maps, and illustrations contain substantial information – more than can be conveyed in a short phrase or sentence. In these cases, a two-part text alternative is required. The first part is the short description to identify the image and, where appropriate, indicate the location of the long description. The second part is the long description – a textual representation of the essential information conveyed by the image.
