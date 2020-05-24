@@ -6,3 +6,8 @@ This can be done by using the width attribute:
 ```
 <hr width="50px" />
 ```
+An element's width can also be defined using percentages:
+
+```
+<hr width="50%" />
+```
