@@ -1,0 +1,11 @@
+Other elements can be used either as block level elements or inline elements. This includes the following elements:
+APPLET - embedded Java applet
+IFRAME - Inline frame
+INS - inserted text
+MAP - image map
+OBJECT - embedded object
+SCRIPT - script within an HTML document
+
+You can insert inline elements inside block elements. For example, you can have multiple <span> elements inside a <div> element.
+
+Note:  Inline elements cannot contain any block level elements.
