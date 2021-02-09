@@ -1,5 +1,5 @@
 import React from 'react';
-import './Avtar.css';
+import './Avatar.css';
 const Avtar = () => {
     return <div className="avtarstyle"> 
               <img src="https://joeschmoe.io/api/v1/aman" alt = "Avtar" />
@@ -7,4 +7,4 @@ const Avtar = () => {
               <p> Web Developer</p>
             </div>
 }
-export default Avtar;
+export default Avatar;
