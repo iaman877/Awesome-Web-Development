@@ -1,7 +1,7 @@
 
 
 # Assignment 1  
-##[School Time Table and Bio-Data Form] 
+## School Time Table and Bio-Data Form 
 ### Time Table
 ![image](https://user-images.githubusercontent.com/49730521/115985477-a7f82880-a5c9-11eb-83c7-4813535bcbac.png)
 ### Bio-Data Form 
@@ -9,14 +9,14 @@
 
 
 # Assignment 2
-##[Phonebook:-Contacts directory using position in CSS]
+## Phonebook:-Contacts directory using position in CSS
 ## Contacts
 <a href="https://www.youtube.com/watch?v=yeMLDgFt2KE&list=PLmPRC5YLKXCrP5ETRIeZjVknprwIwNIWC&index=1">Click Here</a>
 ![image](https://user-images.githubusercontent.com/49730521/115985529-e8f03d00-a5c9-11eb-9d99-46911df8fa0d.png)
 
 
 # Assignment 3 
-## [Landing Page of a website containing a hover button which in the middle of a webpage & Translates in y direction, applies a Shadow]
+## Landing Page of a website containing a hover button which in the middle of a webpage & Translates in y direction, applies a Shadow
 
 ### Hover Me
 <a href="https://www.youtube.com/watch?v=XSbyNN8IUQQ&list=PLmPRC5YLKXCrP5ETRIeZjVknprwIwNIWC&index=2">Click Here</a>
@@ -24,7 +24,7 @@
 
 
 # Assignment 4 
-## [Front Page - A responsive landing page with animations and added responsiveness using CSS Grids and Flexbox]
+## Front Page - A responsive landing page with animations and added responsiveness using CSS Grids and Flexbox
 
 ### Landing Page 
 <a href="https://www.youtube.com/watch?v=3wYDnQMigB8&list=PLmPRC5YLKXCrP5ETRIeZjVknprwIwNIWC&index=3">Click Here</a>
@@ -34,7 +34,7 @@
 
 
 # Assignment 5 
-##[Portfolio - It is a personal portfolio project site using Html, Bootstrap CSS.]
+## Portfolio - It is a personal portfolio project site using Html, Bootstrap CSS.
 
 ### Portfolio Screenshots
 <a href="https://www.youtube.com/watch?v=92B-iDoigoI&list=PLmPRC5YLKXCrP5ETRIeZjVknprwIwNIWC&index=4">Click Here</a>
