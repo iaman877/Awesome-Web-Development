@@ -30,7 +30,7 @@
 - Animations
 - CSSGrids
   
-### JavaScript
+### JavaScript-|
 
 - JS BASICS
 - Conditionals
@@ -48,4 +48,12 @@
 
 - JQuery Intro
 - JQuery Events
+- AJAX
+
+
+### JavaScript-||
+- Axios
+- async-await
+- 
+
 
