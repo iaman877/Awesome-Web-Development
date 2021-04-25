@@ -1,15 +1,11 @@
 
 
 # Assignment1
-Form - The Student Admission Form\
-Table- Html table.
-
-## Form
-![image](https://user-images.githubusercontent.com/49730521/115985354-299b8680-a5c9-11eb-9444-9d3c2aa59747.png)
-
-
-## Table
+## Create a School Time Table and Bio-Data Form 
+### Table
 ![image](https://user-images.githubusercontent.com/49730521/115985477-a7f82880-a5c9-11eb-83c7-4813535bcbac.png)
+### Form 
+![image](https://user-images.githubusercontent.com/49730521/115985354-299b8680-a5c9-11eb-9444-9d3c2aa59747.png)
 
 
 # Assignment2
