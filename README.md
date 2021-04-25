@@ -29,7 +29,7 @@
 - [Transforms](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-6/Transforms)
 - [Transition-|](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-6/Transition)
 - [Transition-||](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-6/Transition2)
-- [Animations-|](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-7/Animations)
+- [Animations](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-7/Animations)
 - [Animations-|](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-7/Animations-1)
 - [Animations-||](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-7/Animations-2)
 - [Animations-|||](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-7/Animations-3)
@@ -38,7 +38,7 @@
 ### JavaScript-|
 
 - [JS BASICS-|](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/JSIntro)
-- [JS BASICS-||](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS)
+- [JS BASICS-|| & DOM ](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS)
 - [Conditionals](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-9/Conditionals)
 - [Arrays](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-9/Arrays)
 - [Call Back Hell](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-11/CallBackHell)
@@ -52,14 +52,14 @@
  
 ### JQuery
 
-- JQuery Intro
-- JQuery Events
-- AJAX
+- [JQuery Intro](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JQuery/Phase-14/JQueryIntro)
+- [JQuery Events](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JQuery/Phase-14/JQueryEvents)
+- [AJAX](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/AJAX)
 
 
 ### JavaScript-||
-- Axios
-- async-await
-- 
+- [Axios](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/Axios)
+- [async-await](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/async-await)
+
 
 
