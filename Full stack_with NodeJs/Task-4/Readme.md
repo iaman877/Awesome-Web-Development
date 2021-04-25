@@ -36,19 +36,20 @@
 # Assignment 5 
 ## Portfolio - It is a personal portfolio project site using Html, Bootstrap CSS.
 
-### Portfolio Screenshots
+### Portfolio 
 <a href="https://www.youtube.com/watch?v=92B-iDoigoI&list=PLmPRC5YLKXCrP5ETRIeZjVknprwIwNIWC&index=4">Click Here</a>
 ![image](https://user-images.githubusercontent.com/49730521/115986316-3e7a1900-a5cd-11eb-8952-5e16c2d1a040.png)
 ![image](https://user-images.githubusercontent.com/49730521/115986353-64072280-a5cd-11eb-91da-27859feda824.png)
 ![image](https://user-images.githubusercontent.com/49730521/115986374-76815c00-a5cd-11eb-9e3c-203d4e75304c.png)
 ![image](https://user-images.githubusercontent.com/49730521/115986388-8600a500-a5cd-11eb-9fe2-33afa73536a8.png)
 
-
-# Assignment [Todo List - It is a simple todo list app that where we can add, delete, edit.]
+# Assignment 6
+## Todo List - It is a simple todo list app that where we can add, delete, edit.]
 
 ![image](https://user-images.githubusercontent.com/49730521/115986448-daa42000-a5cd-11eb-8842-a726ff26e8ad.png)
 
-# Assignment 7 [Weather App - It is a web app which uses weather api to display the weather of a place. We can search for any place for which we want to see the weather. It also displays a preloader until it loads and When the browser loads up , it fetches the location of the user's device.]
+# Assignment 7 
+## Weather App - It is a web app which uses weather api to display the weather of a place. We can search for any place for which we want to see the weather. It also displays a preloader until it loads and When the browser loads up , it fetches the location of the user's device.
 
 Screenshots
 ![image](https://user-images.githubusercontent.com/49730521/115986507-222aac00-a5ce-11eb-85d8-27920830e8da.png)
