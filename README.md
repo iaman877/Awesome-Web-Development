@@ -71,7 +71,7 @@
 - [jokes api](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/jokes)
 - [figlet](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/figlet)
 - [first-express-app](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/first-express-app)
-- [Subreditt-demo](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/subreditt-demo)
+- [Subreditt](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/subreditt-demo)
 - Introduction to npm
 - Query Params
 - Templating
