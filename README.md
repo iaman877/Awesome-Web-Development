@@ -3,7 +3,7 @@
 
 ## Description
 
-  In this repository, you can find the my implementation of Web Development using HTML, CSS, JavaScript, Node etc.
+ This repo is all about Web Development and contains all my program related to HTML, CSS, JavaScript, Node.js with its library and framework.
 
 
 ## What's Included
