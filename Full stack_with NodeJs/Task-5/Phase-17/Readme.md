@@ -12,7 +12,7 @@
    1. Learn about app.listen([port[, host[, backlog]]][, callback]), app.get('/', function (req, res),app.use(bodyParser), app.use(bodyParser)
    2. Hello world example
 
-   ```
+    ```
          const express = require('express')
          const app = express()
          const port = 3000
@@ -22,5 +22,5 @@
          app.listen(port, () => {
          console.log(`Example app listening at http://localhost:${port}`)
          })
-  ```
+   ```
 
