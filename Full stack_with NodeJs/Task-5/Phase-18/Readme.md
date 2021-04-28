@@ -33,7 +33,9 @@
               console.log('server started at port 3000');
              })
        ```
-
+5. like view directory, there is one 'public' directory which is used to stored static files like HTML, CSS, JS etc.
+   1. Note - Configure 'view','public' dir in index.js & link 'css stylesheet','js script' in Home.ejs
+6. Partials : If want to same code in many files then we diractly call respective directory by ejs tags Examp: <%-include("partials/header") %> 
 
 
    
