@@ -72,17 +72,16 @@
 - [figlet](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/figlet)
 - [first-express-app](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/first-express-app)
 - [Subreditt](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-17/subreditt-demo)
-- Introduction to npm
-- Query Params
-- Templating
-- handlebars
+- [Query Parameter](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-18/QueryParams)
+- [EJS-Templating](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-18/EJS-Templating)
+- [Handlebars-Templating](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-18/handlebars-Templating)
 - Get-Post-Req
 - RestfulRouting-|
 - RestfulRouting-||
 - csr-ssr
 - Mongoose Basics
 - Mongoose With Express
-- 
+
 
 
 
