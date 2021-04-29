@@ -17,9 +17,9 @@
    2. how to display a list of comment in your blog 
       1. Make an array in index.js
           ```
-              const comments = [
+             const comments = [
                    {
-                       username: "Sabeel",
+                       username: "Aman",
                        body:"This is a comment"
                    },
                    {
@@ -31,10 +31,10 @@
                        body:"Woof Woof Woof"
                    },
                    {
-                       username: "Prateek",
+                       username: "Prateek mishra",
                        body:"Hello from Google"
                    }
-                ]
+               ]
           ```
         2. List all the comments using res.render function we are calling index.ejs with comment object
             ```
