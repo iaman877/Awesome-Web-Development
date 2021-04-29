@@ -15,7 +15,7 @@
 4. REST(Representational State Transfer Application) or Restful Routing
    1. [Model + URL] -> Uniquely identify type of request
    2. how to display a list of comment in your blog 
-      1. Make an array in index.js
+      1. Make an array in index.js 
           ```
              const comments = [
                    {
@@ -36,11 +36,82 @@
                    }
                ]
           ```
-        2. List all the comments using res.render function we are calling index.ejs with comment object
+        2. List all the comments using "res.render" function so that we are calling index.ejs file with its comment object
             ```
                app.get('/comments', (req, res) => {
                 res.render('comments/index', { comments });
                 })
             ```
-  
+       3. The location of index.ejs is (RestfulRouting/views/comments/index.ejs) and qill look like 
+            ```
+              <!DOCTYPE html>
+                        <html lang="en">
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                            <title>Index</title>
+                        </head>
+                        <body>
+                            <h1>All Comments</h1>
+                            <ul>
+                                <%for(let c of comments){%>
+                                    <li><%= c.body %> - <strong><%= c.username %></strong> </li>
+                                    <a href="/comments/<%=c.id%>">Show</a>
+                                    <a href="/comments/<%=c.id%>/edit">Edit</a>
+                                <%}%>
+                            </ul>
+                            <a href="/comments/new">Add New Comment</a>
+                        </body>
+                        </html>
+             ```
+   3. how to display & add new comments : we can do this by creation of form
+      1. Make a form in new.ejs file, location will be (RestfulRouting/views/comments/new.ejs) 
+         ```
+                  <!DOCTYPE html>
+                        <html lang="en">
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                            <title>New</title>
+                        </head>
+                        <body>
+                            <h1>Add New Comment</h1>
+                            <form method="POST" action="/comments">
+                                <input type="text" name="username" placeholder="username">
+                                <br>
+                                <br>
+                                <textarea name="body" cols="30" rows="5">        
+                                </textarea>
+                                <br>
+                                <br>
+                                <button>Save</button>
+                            </form>   
+                        </body>
+                        </html>
+         ```
+      2. In Index.js write this function
+         ```
+            app.get('/comments/new', (req, res) => {
+                console.log(reg.body);
+                res.render('comments/new');
+                 })
+          ```
+      3. You will be noticed in terminal/cmd output of the console.log is Undefined, to solve this problem we use middleware in Index.js(RestfulRouting/views/comments/index.ejs)
+         ```
+           app.use(express.urlencoded({ extended: true }));
+         ```
+      4. Now destrucutred req.body and push it to comment array
+         ```
+            app.post('/comments', (req, res) => {
+             const { username, body } = req.body;
+             comments.push({ username, body,id });
+             res.redirect('/comments');  // by default it is get request
+             })
+         ```
+         
+
+         
+          
           
