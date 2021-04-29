@@ -156,13 +156,13 @@
                   </html>
             ```
           3. write this function in Index.js
-            ```
-                app.get('/comments/:id', (req, res) => {
-                const { id } = req.params;
-                const foundComment = comments.find(c => c.id===parseInt(id));
-                res.render('comments/show',{comment:foundComment});
-                })
-            ```
+              ```
+                      app.get('/comments/:id', (req, res) => {
+                      const { id } = req.params;
+                      const foundComment = comments.find(c => c.id===parseInt(id));
+                      res.render('comments/show',{comment:foundComment});
+                      })
+             ```
             
                
         
