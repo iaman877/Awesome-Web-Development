@@ -77,8 +77,8 @@
 - [Query Parameter](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-18/QueryParams)
 - [EJS-Templating](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-18/EJS-Templating)
 - [Handlebars-Templating](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-18/handlebars-Templating)
-- Get-Post-Req
-- RestfulRouting-|
+- [Get-Post-Req](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-19/Get-Post-Req)
+- [RestfulRouting-|](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-19/RestfulRouting)
 - RestfulRouting-||
 - csr-ssr
 - Mongoose Basics
