@@ -12,3 +12,35 @@
 3. Get-post-Request 
    1. npm init -y => npm i express ejs nodemon
    2. change "script" part in package.json
+4. REST(Representational State Transfer Application) or Restful Routing
+   1. [Model + URL] -> Uniquely identify type of request
+   2. how to display a list of comment in your blog 
+      1. Make an array in index.js
+          ```
+              const comments = [
+                   {
+                       username: "Sabeel",
+                       body:"This is a comment"
+                   },
+                   {
+                       username: "Cat",
+                       body:"Meow Meow Meow"
+                   },
+                   {
+                       username: "Dog",
+                       body:"Woof Woof Woof"
+                   },
+                   {
+                       username: "Prateek",
+                       body:"Hello from Google"
+                   }
+                ]
+          ```
+        2. List all the comments using res.render function we are calling index.ejs with comment object
+            ```
+               app.get('/comments', (req, res) => {
+                res.render('comments/index', { comments });
+                })
+            ```
+  
+          
