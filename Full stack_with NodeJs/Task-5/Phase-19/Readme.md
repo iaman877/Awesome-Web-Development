@@ -110,8 +110,63 @@
              res.redirect('/comments');  // by default it is get request
              })
          ```
-         
+    4. how to show particular comment   
+       1. for this first we have to give specific id to each value in array in Index.js write this function
+          ```
+              const comments = [
+                   {
+                       id:0,
+                       username: "Aman",
+                       body:"This is a comment"
+                   },
+                   {
+                       id:1,
+                       username: "Cat",
+                       body:"Meow Meow Meow"
+                   },
+                   {
+                       id:2,
+                       username: "Dog",
+                       body:"Woof Woof Woof"
+                   },
+                   {
+                       id:3,
+                       username: "Prateek mishra",
+                       body:"Hello from Google"
+                   }
+               ]
+          ```
+        2. Make a show.ejs, location will be -> (RestfulRouting/comments/show.ejs)
+            ```
+               <!DOCTYPE html>
+                  <html lang="en">
+                  <head>
+                      <meta charset="UTF-8">
+                      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                      <title>Document</title>
+                  </head>
+                  <body>
+                      <h1>Show Comment</h1>
+                      <h2>ID:<%= comment.id %></h2>
+                      <h3>Username : <%= comment.username %></h3>
+                      <h5> Body : <%= comment.body %></h5>
 
+                  </body>
+                  </html>
+            ```
+          3. write this function in Index.js
+            ```
+                app.get('/comments/:id', (req, res) => {
+                const { id } = req.params;
+                const foundComment = comments.find(c => c.id===parseInt(id));
+                res.render('comments/show',{comment:foundComment});
+                })
+            ```
+            
+               
+        
+        
          
           
           
