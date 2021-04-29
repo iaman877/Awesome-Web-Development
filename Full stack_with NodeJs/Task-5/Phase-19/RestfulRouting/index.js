@@ -7,7 +7,7 @@ app.use(methodOverride('_method'));
 const comments = [
     {
         id:0,
-        username: "Sabeel",
+        username: "Aman",
         body:"This is a comment"
     },
     {
@@ -22,7 +22,7 @@ const comments = [
     },
     {
         id:3,
-        username: "Prateek",
+        username: "Prateek mishra",
         body:"Hello from Google"
     }
 ]
