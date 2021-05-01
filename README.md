@@ -59,8 +59,7 @@
 ### JavaScript-||
 - [Axios](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/Axios)
 - [async-await](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/async-await)
-- TV Show App
-- Todo App
+
 - 
 ### Node.js
 - [Require & module Exports](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-16/Require%26moduleExports)
