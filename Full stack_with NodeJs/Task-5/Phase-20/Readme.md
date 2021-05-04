@@ -25,4 +25,9 @@ You can have at most two of these three properties for any system
 2. No ACID transactions
 3. No SQL
 
+## Data Model used by Mongo DB
+1. BSON format (binary JSON)
+2. Developers can easily map to modern object-oriented languages without a complicated ORM layer. 
+3. lightweight,  traversable,  efficient
+
 
