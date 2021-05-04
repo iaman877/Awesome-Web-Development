@@ -30,4 +30,18 @@ You can have at most two of these three properties for any system
 2. Developers can easily map to modern object-oriented languages without a complicated ORM layer. 
 3. lightweight,  traversable,  efficient
 
+## CRUD Operation in Mongo DB
+1. Create
+   1. db.collection.insert( <document> ) 
+   2. db.collection.save( <document> ) 
+   3. db.collection.update( <query>, <update>, { upsert: true } ) 
+2. Read
+   1. db.collection.find( <query>, <projection> )
+   2. db.collection.findOne( <query>, <projection> ) 
+Update
+   1. db.collection.update( <query>, <update>, <options> ) 
+Delete
+   1. db.collection.remove( <query>, <justOne> ) 
+
+
 
