@@ -38,9 +38,9 @@ You can have at most two of these three properties for any system
 2. Read
    1. db.collection.find( <query>, <projection> )
    2. db.collection.findOne( <query>, <projection> ) 
-Update
+3. Update
    1. db.collection.update( <query>, <update>, <options> ) 
-Delete
+4. Delete
    1. db.collection.remove( <query>, <justOne> ) 
 
 
