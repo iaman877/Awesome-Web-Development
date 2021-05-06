@@ -16,3 +16,11 @@
 
 ![6 2](https://user-images.githubusercontent.com/49730521/117323689-be955e00-aeac-11eb-9e5d-171a7297f2bd.PNG)
 
+# Models
+Models are fancy constructors compiled from Schema definitions. An instance of a model is called a document. Models are responsible for creating and reading documents from the underlying MongoDB database.
+1. Compiling your first model
+2. Constructing Documents
+3. Querying
+4. Deleting
+5. Updating
+6. Change Streams
