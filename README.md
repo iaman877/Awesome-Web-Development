@@ -21,6 +21,8 @@
 - [Fixed_NavBar](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/Fixed_NavBar) 
 - [Flexbox](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/Flexbox)
 - [FontProperties](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/FontProperties)
+- [ListStyles](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/ListStyles)
+- [NewsPage](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/NewsPage)
 - [Responsiveness](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/Responsiveness)
 - [Text-Overflow](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-5/Text-Overflow)
 - [3DCard](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/CCS/phase-6/3DCard)
