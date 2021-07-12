@@ -41,6 +41,17 @@
 
 - [JS BASICS-|](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/JSIntro)
 - [JS BASICS-|| & DOM ](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS)
+  - [Console Logs](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Console%20Logs-1.js)
+  - [Variables](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Variables-2.js)
+  - [Data Types](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Data%20Types-3.js)
+  - [Type-Conversion](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Type-Conversion-4.js)
+  - [String Methods](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/String%20Methods-5.js)
+  - [Template Literals](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Template%20Literals-6.js)
+  - [Arrays and Objects](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Arrays%20and%20Objects-7.js)
+  - [Conditionals & Switches](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Conditionals%20%26%20Switches-8.js)
+  - [Loops](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Loops-9.js)
+  - [Function](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Functions-10.js)
+  - [Window Object](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Window%20Object-11.js)
 - [Conditionals](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-9/Conditionals)
 - [Arrays](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-9/Arrays)
 - [Call Back Hell](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-11/CallBackHell)
@@ -62,7 +73,6 @@
 - [Axios](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/Axios)
 - [async-await](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-15/async-await)
 
-- 
 ### Node.js
 - [Require & module Exports](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-16/Require%26moduleExports)
 - [Requiring Dir](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/Phase-16/RequiringDir)
