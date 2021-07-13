@@ -31,11 +31,11 @@
 // New Way of sending Request
 
 fetch('https://api.cryptonator.com/api/ticker/btc-usd')
-    .then(data => {
-        console.log(data);
-        return data.json();
+    .then(data => {                // basically it is two step process 
+        console.log(data);         // it will print without getting full data 
+        return data.json();        // data.json will hold till full data recieved 
     })
-    .then(parsedData => {
+    .then(parsedData => {          // here whole data is parshed 
         console.log(parsedData.ticker.price);
     })
     .catch(err => {
