@@ -55,7 +55,7 @@
   - [Arrays and Objects](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Arrays%20and%20Objects-7.js)
   - [Conditionals & Switches](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Conditionals%20%26%20Switches-8.js)
   - [Loops](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Loops-9.js)
-  - [Function](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Functions-10.js)
+<!--   - [Function](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Functions-10.js) -->
   - [Window Object](https://github.com/iaman877/Web-dev/blob/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/HarryJS/Window%20Object-11.js)
 - [Conditionals](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-9/Conditionals)
 - [Arrays](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-9/Arrays)
