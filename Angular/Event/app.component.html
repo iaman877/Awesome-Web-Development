@@ -1,0 +1,7 @@
+<h1>Event</h1>
+<button (click)="myEvent('click event')">Click me </button>
+
+<br> 
+<br>
+
+<input type = "text" #box (keyup.enter)="myEvent(box.value)"/>

@@ -1,0 +1,10 @@
+
+<!-- Binding -->
+<input type = "text" [disabled] = "disabledBox" [value]= name>  <br>
+<!-- Interpolation 
+    <input type = "text" [disabled] = "disabledBox" value= {{a}}>  -> semi syntax
+     helps to enable box on event click
+-->
+<input type = "text" disabled = {{disabledBox}} value= {{a}}>  <br>
+
+<button (click)="enableBox()">Enable TextBox</button>

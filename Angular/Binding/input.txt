@@ -1,0 +1,5 @@
+
+
+Property Binding 
+Bind a property with html element 
+find differenc between Preperty Binding and Interpolotion 
