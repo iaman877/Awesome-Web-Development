@@ -1,0 +1,12 @@
+<div class = "container"> 
+  <button class = "btn btn-success" (click)="onCreateblock()">Create Block</button>
+  <br> 
+  <div *ngIf = "isValid; then c else b">block has been created </div>
+  <ng-template #c>
+    <div>block created</div>
+   </ng-template>
+   <ng-template #b>
+    <div>No Block has been Created yet </div>
+   </ng-template>
+  
+</div>
