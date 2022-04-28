@@ -1,0 +1,19 @@
+<h1>{{title}}</h1>
+<!-- <ng-template [ngIf] = "color ==='red'">
+   <h1>Red color</h1>
+</ng-template>
+<ng-template [ngIf] = "color ==='green'">
+  <h1> green color</h1>
+</ng-template>
+<ng-template [ngIf] = "color ==='blue'">
+  <h1>blue color</h1>
+</ng-template> -->
+
+<h3 *ngFor = "let item of user">Name is 
+     {{item}}
+</h3> 
+
+<h3 *ngFor = "let item of data">Name is 
+    {{item.name}} and age is 
+    {{item.age}}
+</h3> 
