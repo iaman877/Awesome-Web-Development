@@ -1,0 +1,72 @@
+Typescript Variable 
+Variables in TypeScript can be statically typed. Statically typed variables must always retain the data type that they start out with. 
+Once a variable is statically typed as a string, for example, that variable cannot hold any other data type.
+TypeScript uses JavaScript’s var, let, and const keywords to initialize variables.
+It also uses a colon after the variable name to designate the type.
+
+Strings in TypeScript
+Javascript:
+let name = 'Fred'
+JS
+TypeScript:
+let name: string = 'Fred'
+
+Numbers in TypeScript
+let registrationPercentage: number = 92.87;
+
+Booleans in TypeScript
+let isRegistered: boolean;
+
+Enums in TypeScript
+Enums allow us to declare a set of named constants i.e. a collection of related values that can be numeric or string values.
+
+There are three types of enums:
+
+Numeric enum
+String enum
+Heterogeneous enum
+
+The 'any' Type in TypeScript
+userData will now be a container that can hold any data type. Once userData is initialized, however, it will infer the type from the value given to it.
+let userData: any;
+
+Custom Types: Interface 
+
+interface IPerson { 
+   firstName:string, 
+   lastName:string, 
+   sayHi: ()=>string 
+} 
+
+var customer:IPerson = { 
+   firstName:"Tom",
+   lastName:"Hanks", 
+   sayHi: ():string =>{return "Hi there"} 
+} 
+
+console.log("Customer Object ") 
+console.log(customer.firstName) 
+console.log(customer.lastName) 
+console.log(customer.sayHi())  
+
+var employee:IPerson = { 
+   firstName:"Jim",
+   lastName:"Blakes", 
+   sayHi: ():string =>{return "Hello!!!"} 
+} 
+  
+console.log("Employee  Object ") 
+console.log(employee.firstName);
+console.log(employee.lastName);
+
+We can use optional fields in an interface in TypeScript. Optional fields are not part of the strict interface contract. 
+interface Order {
+  customerName: string,
+  itemNumbers: number[],
+  isComplete?: boolean
+}
+let order1: Order;
+order1 = {
+  customerName: "Abiye",
+  itemNumbers: [123, 44, 232]
+}

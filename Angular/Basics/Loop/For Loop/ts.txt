@@ -1,0 +1,16 @@
+
+
+Iterating with Indices
+
+<div *ngFor='let fruit of fruits; let i=index'>
+   Fruit {{ i }} is {{ fruit }} 
+</div>
+
+The result in your browser will look like this:
+Fruit 0 is apple
+Fruit 1 is orange
+Fruit 2 is pear
+Fruit 3 is peach
+
+
+
