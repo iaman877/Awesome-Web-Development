@@ -1,0 +1,36 @@
+# Topic covered
+## - ✨ JavaScript- ✨ 
+- Array
+  -  [arrayFromRange](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/arrays/1-arrayFromRange.js)
+  -  [includes](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/arrays/2-includes.js)
+  -  [except](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/arrays/3-except.js)
+  -  [move](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/arrays/4-move.js)
+  -  [countOccurrences](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/arrays/5-countOccurrences.js)
+  -  [max](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/arrays/6-max.js)
+- control-flow
+  - [max](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/1-max.js)
+  - [landscape](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/2-landscape.js)
+  - [fizzbuzz](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/3-fizzBuzz.js)
+  - [evenorodd](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/5-evenOrOdd.js)
+  - [countTruthy](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/6-countTruthy.js)
+  - [stringProperties](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/6-countTruthy.js)
+  - [multiples](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/8-multiples.js)
+  - [grade](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/9-grade.js)
+  - [stars](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/10-stars.js)
+  - [primeNumber](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/control-flow/11-primeNumber.js))
+- functions                  
+  - [areaOfCircle](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/functions/1-areaOfCircle.js)
+  - [sumOfArgs](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/functions/2-sumOfArgs.js)
+  - [errorHandling](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/functions/3-errorHandling.js)
+- objects
+  - [maxOfTwo](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/1-maxOfTwo.js)
+  - [landscape](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/2-landscape.js)
+  - [fizzBuzz](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/3-fizzBuzz.js)
+  - [checkSpeed](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/4-checkSpeed.js)
+  - [showNumbers](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/5-showNumbers.js)
+  - [countTruthy](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/6-countTruthy.js)
+  - [showProperties](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/7-showProperties.js)
+  - [sum](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/8-sum.js)
+  - [grade](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/9-grade.js)
+  - [showStars](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/10-showStars.js)
+  - [showPrimes](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/11-showPrimes.js)
