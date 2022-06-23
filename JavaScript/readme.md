@@ -32,5 +32,5 @@
   - [showProperties](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/7-showProperties.js)
   - [sum](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/8-sum.js)
   - [grade](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/9-grade.js)
-  - [showStars](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/10-showStars.js)
-  - [showPrimes](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/11-showPrimes.js)
+  - [showStars](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/9-showStars.js)
+  - [showPrimes](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/JavaScript/objects/10-showPrimes.js)
