@@ -44,4 +44,51 @@ You can have at most two of these three properties for any system
    1. db.collection.remove( <query>, <justOne> ) 
 
 
+# Installation MongoDB on a Mac M1
+
+### Step 1st -  Install Brew 
+> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+###### Problem I faced 
+According to the Homebrew site, to install it, I need to type: 
+> brew install wget
+
+I get an error message: -bash: brew: command not found Found this answer. The problem, however, is I don't see brew in /usr/local/bin.
+I added the below line to my .bashrc file 
+> export PATH=/usr/local/bin:$PATH
+
+Still getting the command not found error.
+
+###### Solution
+1. cd /opt/homebrew/bin/
+2. PATH=$PATH:/opt/homebrew/bin
+3. cd
+4. touch .zshrc
+5. echo export PATH=$PATH:/opt/homebrew/bin >> .zshrc
+
+Explanation
+Run the commands in that order in terminal, you'll be editing the path and creating the missing .zshrc file, exporting the path to this new file.
+Now you should be able to use:
+> brew doctor
+
+It should say: "Your system is ready to brew."
+
+### Step 2nd - Install Xcode Command-Line Tools
+> xcode-select --install
+
+
+### Step 3rd Installing MongoDB 5.0 Community Edition
+
+1. brew tap mongodb/brew
+2. brew update
+3. brew install mongodb-community@5.0
+
+Note: Apple's documentation for the current list of Apple hardware using the M1 processor. You can also run the following command to check where brew has installed these files and directories:
+> brew --prefix
+
+### Step 4th : Start/Stop MongoDB Community Edition
+1. brew services start mongodb-community@5.0
+2. brew services stop mongodb-community@5.0
+
+
 
