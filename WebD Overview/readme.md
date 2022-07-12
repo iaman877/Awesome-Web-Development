@@ -48,7 +48,7 @@
 - [Code Context hoisting.js](https://github.com/iaman877/Web-dev-Bootcamp/blob/master/WebD%20Overview/Task-5/JavaScript/HarryJS/Code%20Context%20hoisting.js)
 - [Arrays](https://github.com/iaman877/Web-dev-Bootcamp/tree/master/WebD%20Overview/Task-5/JavaScript/phase-9/Arrays)
 - [Call Back Hell](https://github.com/iaman877/Web-dev-Bootcamp/tree/master/WebD%20Overview/Task-5/JavaScript/phase-11/CallBackHell)
-- [Promise](https://github.com/iaman877/Web-dev/tree/master/Full%20stack_with%20NodeJs/Task-5/JavaScript/phase-11/Promise)
+- [Promise](https://github.com/iaman877/Web-dev-Bootcamp/tree/master/WebD%20Overview/Task-5/JavaScript/phase-11/Promise)
 - [ArrowFunctions](https://github.com/iaman877/Web-dev-Bootcamp/tree/master/WebD%20Overview/Task-5/JavaScript/phase-11/ArrowFunctions)
 - [AsyncProgramming](https://github.com/iaman877/Web-dev-Bootcamp/tree/master/WebD%20Overview/Task-5/JavaScript/phase-11/AsyncProgramming)
 - [Events](https://github.com/iaman877/Web-dev-Bootcamp/tree/master/WebD%20Overview/Task-5/JavaScript/Phase-13/Events)
