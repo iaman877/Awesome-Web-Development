@@ -1,0 +1,12 @@
+{
+  "name": "tswrapup",
+  "version": "1.0.0",
+  "description": "Setting up Environment of typescript with node pakage manager steps 1. sudo npm i -g typescript 2. sudo mpm i -g ts-node 3. tsc --init  4. npm --init",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
