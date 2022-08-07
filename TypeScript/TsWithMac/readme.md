@@ -1,4 +1,5 @@
-Setting up Environment of typescript with node pakage manager
+# Setting up Environment of typescript with node pakage manager
+
 Steps 1st 
 -  sudo npm i -g typescript
 -  sudo mpm i -g ts-node
