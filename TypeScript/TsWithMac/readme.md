@@ -2,15 +2,15 @@
 
 Steps 1st 
 -  sudo npm i -g typescript
--  sudo mpm i -g ts-node
+-  sudo npm i -g ts-node
 -  tsc --init 
 -  npm init -y
 
 Step 2nd 
 
-- change script "start": "tsc --watch" in package.json
-- configure root dir as "rootDir": "./src", in tsconfig.json
-- configure output dir as "outDir": "./dist", in tsconfig.json
-- for running program use "node dist index.js" command
+- Change script "start": "tsc --watch" in package.json
+- Configure root dir as "rootDir": "./src", in tsconfig.json
+- Configure output dir as "outDir": "./dist", in tsconfig.json
+- For running program use "node dist index.js" command
 
 
