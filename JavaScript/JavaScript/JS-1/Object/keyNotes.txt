@@ -1,0 +1,7 @@
+> function declaration vs function expression hoisting
+> var is functional scope
+> application of "use strict" 
+> how to access function inside object
+> Difference between class object & instance object
+> const & Object can reassign but not redeclare it.
+> Destruction from object vs Destruction from object 
