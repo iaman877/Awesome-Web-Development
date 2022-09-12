@@ -1,3 +1,18 @@
+//Object:-
+      let user = new Object(); // "object constructor" syntax
+    //  let user = {}; // "object literal" syntax
+
+let myobj = {
+    'first name': 'Aman', 
+    channel: 'AmanTV',
+    isActive: true,
+    marks: [1,5,3,6]
+}
+console.log(myobj)
+console.log(myobj['channel'])
+console.log(myobj.channel)
+
+
 const car= {      //CREATION
     'brand':'AUDI',
     'color':['red', 'blue', 'gray'],

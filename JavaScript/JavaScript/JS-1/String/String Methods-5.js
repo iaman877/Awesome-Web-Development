@@ -21,9 +21,8 @@
         console.log(mystr)    //Output:- "prog"
 
 // split(delimiter, limit):
-        var txt = "a,b,c,d,e";   // String
-        txt.split(",");          // Split on commas
-        txt.split(" ");          // Split on spaces
+        var str="Hello from CRIO";
+        console.log( (str.split('from')));//SPLIT works with STRING and Returns an Array
 
 // substring(from, [to]):
         var myString = 'javascript Programming';

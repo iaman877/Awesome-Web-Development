@@ -9,20 +9,19 @@ const person={
     'pincode':124456
   }
 }
-console.log(person.hasOwnProperty('lastname'));
-console.log(Object.keys(person));
-
-for(let i in person){
+console.log(person.hasOwnProperty('lastname'));  // return boolean value
+console.log(Object.keys(person));    // return an array
+console.log(Object.entries(person));  // return nested array. 
+for(let i in person)
+{
 if(typeof person[i] =='object'){
   for(let x in person[i]){
   console.log(`KEYNAME:- ${x} AND VALUE:- ${person[i][x]}`)
   }
 }
   else {
-  console.log(`KEYNAME:- ${i} AND VALUE:- ${person[i]}`)
-    
+  console.log(`KEYNAME:- ${i} AND VALUE:- ${person[i]}`) 
   }
-  
 }
 
 //  ----------   Iteration Using For of Loop 
