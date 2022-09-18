@@ -1,0 +1,27 @@
+1. oneD -> twoD -> arrayofobj -> function call
+2. regex -> callback -> Arrow function -> filter & find
+
+
+
+return behaviour
+    join - 
+    split -  
+    forEach - 
+    this -
+    find - 
+    filter - 
+Arrowfunction- 
+        > No this keyword
+        > No Argument
+Scope (https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
+        >  global Scope -> function Scope -> block Scope
+        >  lexical Scope => current pwd
+        >  using closure we can easily understand these scope
+
+
+
+
+
+
+
+

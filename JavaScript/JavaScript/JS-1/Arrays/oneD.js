@@ -93,7 +93,7 @@ console.log('-------------- Destructuring ------------------->');
     const [firstnum, second]=array;
     console.log(firstnum, second)
 
-console.log('----------join----------------------------------->')
+console.log('-----------------join----------------------->')
     var num=['ONE', 'TWO', 'THREE', 'FOUR', 'FIVE'];
     console.log(num.join('$*$'));  //JOIN works with Array and Returns a String
 
@@ -107,6 +107,11 @@ console.log('----------join----------------------------------->')
     }
     console.log(ascendingOrder([1, 5, 2, 3, 4]));
 
-
-
-    hi sir, i am unable to understand flow of this problem, return inside return/ function inside function
+console.log('---------REST PARAMETER and SPREAD OPERATOR--------------------->')
+      var array1=['One', 'Two', 'Three', 'Four'];
+      const anotherArr= ['FIVE', 'SIX', 'SEVEN']
+      console.log(array1.concat(anotherArr));
+      console.log([...array1, ...anotherArr]);
+      function sampleData(first, second,...args){//REST PARAM
+      console.log(args);
+}
