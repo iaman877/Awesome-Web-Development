@@ -1,11 +1,3 @@
-# A semantic element clearly describes its meaning to both the browser and the developer.
-
-* Examples of non-semantic elements: "div and span" - Tells nothing about its content.
-* Examples of semantic elements: form, table, and article - Clearly defines its content.
-  
-![image](https://user-images.githubusercontent.com/49730521/125183726-899fe180-e236-11eb-997f-1e5f350dc7a3.png) 
-![image](https://user-images.githubusercontent.com/49730521/125184707-a986d380-e23d-11eb-88a2-acaa8365ceee.png)
-
 # Topics Covered
 - Block & Inline Elements
 - Semantic Tags in HTML5
@@ -13,13 +5,26 @@
 - Styling in HTML
 - CSS Selectors
 
+
+
 ### Block and Inline Elements
+
 | Block      | Inline |
 | ----------- | ----------- |
 | Always starts on a new line.      | Starts on the same line      |
 | Takes up the full width available.   | Takes up the width of the content    |
 | Can contain an inline element   | Cannot contain a block element  |
-| Examples of block elements - <div>, <p>, <h1>, <h2> … <h6>, etc.   |Examples - <a>, <span>, <code>  |
+
+
+### Semantic Tags 
+These tages clearly describes its meaning to both the browser and the developer.
+
+-  Examples of non-semantic elements: "div and span" - Tells nothing about its content.
+-  Examples of semantic elements: form, table, and article - Clearly defines its content.
+  
+![image](https://user-images.githubusercontent.com/49730521/125183726-899fe180-e236-11eb-997f-1e5f350dc7a3.png) 
+
+
 ### Formatting Text with HTML
 - HTML contains several elements for defining text with a special meaning.
 - <b> and <strong> emphasise the text in bold
@@ -33,6 +38,7 @@
 - <em> stands for emphasis and is semantic, <i> is an italic style.
 
 ### Styling in HTML
+
 Each element can have a style attribute to specify styles like font, size, color, etc.
 ```
  <tagname style="property:value;">
@@ -248,9 +254,6 @@ Then in the styles we use the # symbol to select the item.
     <footer>
       <h4 id="developer">
         Website developed by Yash M Naik
-        <a href="https://github.com/yashnaik9/CrioSessions" target="_blank"
-          >GitHub</a
-        >
       </h4>
       <a href="/index.html">Back To Menu</a>
     </footer>
