@@ -2,6 +2,8 @@
 - Pseudo-Classes
 - Selector Specificity
 - Inheritance in CSS
+- Length Units
+- Box Model 
 
 
 ### Pseudo-Classes
@@ -130,3 +132,11 @@ section:active {
   color: magenta;
 }
 ```
+## Length Units
+
+<img width="1106" alt="Screenshot 2022-10-02 at 7 40 41 PM" src="https://user-images.githubusercontent.com/49730521/193459127-c01395a8-8248-4262-922a-7a13e22142c2.png">
+<img width="1106" alt="Screenshot 2022-10-02 at 7 41 04 PM" src="https://user-images.githubusercontent.com/49730521/193459136-0b0f3761-1b6f-40d1-820a-0239b8c5d696.png">
+<img width="1210" alt="Screenshot 2022-10-02 at 7 41 56 PM" src="https://user-images.githubusercontent.com/49730521/193459140-f5ca376c-c062-403a-82d6-70a51ca59cc6.png">
+
+## Box Model 
+<img width="809" alt="Screenshot 2022-10-02 at 7 47 56 PM" src="https://user-images.githubusercontent.com/49730521/193459086-647930ad-d18b-4e7a-a831-6988806f0269.png">
